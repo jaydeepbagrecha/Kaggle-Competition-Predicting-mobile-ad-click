@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 @@ -1 +1,30 @@
+=======
+>>>>>>> Stashed changes
 Requirements:
 =============
 1. Install pypy compiler.
@@ -29,4 +32,7 @@ Note:
 For default run just copy the test and train file into the  dir and follow "Steps to Run" commands one by one.
 
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
